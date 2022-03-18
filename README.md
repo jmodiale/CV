@@ -1,77 +1,65 @@
+<div align="center">
+
 ## Joy Omodiale
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+[Skills](#Skills) | [Projects](#Projects) | [Experience](#Experience) | [Education](#Education) | [Hobbies](#Hobbies)
 
-## Projects
+</div>
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
-## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+A budding **full-stack developer** with a good foundation in the methods and processes involved in analysing complex problems. At the moment, my focus is on React; making an effort to challenge myself and learn more. Seeking for a Junior Developer role where I can put my talents to work on projects and enhance and succeed as a developer.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Languages
 
--STAR
--What was the situation/task? (ST)
+- **Javascript** (React, Express, Jest)
+- **Ruby** (Sinatra, Rails, RSpec)
+- HTML, **CSS** & Bootstrap
 
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
+#### :ear: Communication
 
 
-#### This Skill
+## Projects
 
-- Experience
-- Achievements
-- Evidence (STAR)
+|                                                                                                                           |                                   Repo                                   | Description                                                                                                                          | Stack                                                              |
+| :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------- |
+| **[WanderPost](https://github.com/robinucar/travel-log)**  | Final group engineering project. Travel log                                               | React, Express, Node, MongoDB, Jest, CSS              |
+|      **[acebook](https://github.com/ravensears/Weeks-8-and-9-Acebook-Five-Aces)**       | Group engineering project. Facebook clone built with Ruby on Rails.                                                                  | Ruby on Rails, Javasript, Bootstrap, HTML, CSS, Heroku |
+| **[The Only Fonts You Need](https://github.com/jmodiale/TV-Show-DOM-Project)** | Personal project TV Shows Application.                                                                               | JavaScript, HTML & CSS                                               |
 
-#### Another Skill
+## Experience
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+### :martial_arts_uniform: BROOK STREET (Oct 2020 to present)
+Contracted by staffing agency Brook Street to work on a temporary basis to perform diversified admin roles: 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Government Legal Department - FPPD (Oct 2020 to Oct 2021)
+_Executive Officer_
+- Creating weekly and monthly reports and presentations using Power BI and Excel Pivot table.
+- Managing first line support of software system functions ensuring incident records are created via the service desk management  system, whilst ensuring a timely and effective resolution to the end users.
+- Training stakeholders by conducting formal workshops, and one-on-one training with end users (remotely via Zoom and MS Teams).
+- Developing training programs and customizing training materials such as online learning modules, software manuals and quick reference guides 
+
+#### :martial_arts_uniform: ASL (Mar 2014 to Dec 2019)
+_Office Administrator_
+- Facilitated planning and hosting of events.
+- Liaise with clients, negotiate directly with suppliers, ensure key office logistics and maintain records; organize internal/external meetings attend them and take minutes.
+- Instrumental in identifying costs, risks, and benefits that decreased office expenditures 15% by establishing business relationships and implementing needed controls on ordering, stock, and supplies
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### :computer: Makers Academy (Nov 2021 to Mar 2022)
 
-#### Your University / College (start_date to end_date)
+After learning some basics of programming, I applied to Makers: a 16 week highly selective software engineering bootcamp based around self-led learning, **pair-programming**, weekend challenges and group engineering projects. Worked on projects in an **Agile** team, using **Sprints** and Retros to meet tight deadlines. Independently learned **Ruby**, **OOP**, **Rails**, **JavaScript**, **React**, **PostgreSQL** to create projects. Learned how to use Test Driven Development with **RSpec** and **Jest** to write higher quality code. Frequently used pairing to problem-solve efficiently, requiring teamwork and communication.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
-#### Any other qualifications
+#### :mortar_board: University Of Benin (2012)
 
-That in some arguable way make you a better software developer or well-rounded person
+_BSc Biology & Biotechnology, 2.1_
+
+- Modules in Biostatistics, Symbolic Programming, Physics, Biotechnology, Philosophy & Logic
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- I enjoy the outdoors especially Travelling
+
