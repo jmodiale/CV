@@ -21,10 +21,10 @@ After graduating from the university with a bachelor's degree in biology and bio
 
 ## Projects
 
-|                                         Repo                                                                                  |                                   Description                                   | Stack                                                                                                                   |                                                          |
+|                                         Project                                                                                  |                                   Description                                   | Tech Stack                                                                                                                   |                                                          |
 | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------- |
-| **[WanderPost](https://github.com/robinucar/travel-log)**  | Final group engineering project. Travel log                                               | React, Express, Node, MongoDB, Jest, CSS              |
-|      **[Acebook](https://github.com/ravensears/Weeks-8-and-9-Acebook-Five-Aces)**       | Group engineering project. Facebook clone built with Ruby on Rails.                                                                  | Ruby on Rails, RSpec, Javasript, Bootstrap, HTML, CSS, Heroku |
+| **[WanderPost](https://github.com/robinucar/travel-log)**  | Final group engineering project. a Travel Log app that acts as a store of your favourite travel memories.                                               | React, Express, Node, MongoDB, Jest, CSS              |
+|      **[Acebook](https://github.com/ravensears/Weeks-8-and-9-Acebook-Five-Aces)**       | Group engineering project. A Facebook clone built with full authentication on the Ruby on Rails backend.s.                                                                  | Ruby on Rails, RSpec, Javasript, Bootstrap, HTML, CSS, Heroku |
 | **[TV Show](https://github.com/jmodiale/TV-Show-DOM-Project)** | Personal project TV Shows Application.                                                                               | JavaScript, HTML & CSS                                               |
 
 ## Experience
