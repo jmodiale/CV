@@ -6,13 +6,13 @@
 
 </div>
 
-A budding **full-stack developer** with a good foundation in the methods and processes involved in analysing complex problems. At the moment, my focus is on React; making an effort to challenge myself and learn more. Seeking for a Junior Developer role where I can put my talents to work on projects and enhance and succeed as a developer.
+After graduating from the university with a bachelor's degree in biology and biotechnology, I began working as an administrator in the finance department of an engineering firm, where I picked up new and exciting skills. Over the course of my career, I developed an interest in web apps, which led to my learning to code. I'm excited at the chance to make a difference by working as part of a team to solve big problems.
 
 ## Skills
 
 #### Languages
 
-- **Javascript** (React, Express, Jest)
+- **Javascript** (React, Express, Node, Jest)
 - **Ruby** (Sinatra, Rails, RSpec)
 - HTML, **CSS** & Bootstrap
 
